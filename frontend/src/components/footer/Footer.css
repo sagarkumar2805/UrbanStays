@@ -18,7 +18,10 @@
     color: #003580;
     margin-bottom: 10px;
 }
-
+.fListItem:hover{
+    color: gray;
+}
 .fText{
     color: gray;
+    text-align: center;
 }

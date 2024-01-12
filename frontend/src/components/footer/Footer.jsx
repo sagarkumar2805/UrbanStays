@@ -50,6 +50,7 @@ const Footer = () => {
         <br />
         <div className="fText">Copyright @ 2024 UrbanStays.</div>
         <br />
+        <br />
     </div>
   )
 }
