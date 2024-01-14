@@ -124,6 +124,7 @@ const Header = ({ type }) => {
                                 <button className="headerSearchBtn" onClick={handleSearch}>Search</button>
                             </div>
                         </div> </>}
+                        
             </div>
         </div>
     )
